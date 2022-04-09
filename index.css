@@ -7,4 +7,27 @@
   margin: auto;
   padding: 20px 0;
 }
-
+.posts {
+  width: 90%;
+  height: fit-content;
+  padding: 15px 0;
+  margin: 10px auto;
+  background-color: #E0E0E0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.post-id {
+  font-size: 18px;
+  padding: 5px 12px;
+  background-color: #5C6BC0;
+  display: inline-block;
+}
+.title {
+  font-size: 20px;
+}
+.post-info {
+  font-size: 18px;
+  margin: auto 20px;
+}
