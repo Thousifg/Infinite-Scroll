@@ -1,0 +1,10 @@
+#container {
+  width: 90%;
+  margin: auto;
+}
+.heading {
+  width: 250px;
+  margin: auto;
+  padding: 20px 0;
+}
+
